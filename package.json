@@ -1,0 +1,22 @@
+{
+  "name": "csv-filter-challenge-public",
+  "version": "1.0.0",
+  "description": "Scoir Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayrayyn/csv-filter-challenge-public.git"
+  },
+  "author": "Raymond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayrayyn/csv-filter-challenge-public/issues"
+  },
+  "homepage": "https://github.com/rayrayyn/csv-filter-challenge-public#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
